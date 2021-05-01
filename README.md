@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raj-Kumar-Shrivastava
+- 👋 Hi, I’m @Raj-Kumar-Shrivastava.
 - 👀 I’m interested in Information Security, Linux, Networking and Python.
 - 🌱 I’m currently learning Python and Linux.
 - 💞️ I’m looking to collaborate on ...
